@@ -1,0 +1,48 @@
+
+$ git config --global user.name "John Doe"
+$ git config --global user.email johndoe@example.com
+
+
+
+
+git init <nombre-repositorio>
+
+git clone <url-repositorio>
+
+
+git add <fichero>
+
+
+git add <carpeta>
+
+git add .
+
+git status
+
+git log
+
+
+git log --oneline
+
+git log --graph
+
+
+git show
+
+
+git show <commit>
+
+
+git annotate <filename>
+
+
+git diff
+
+git diff HEAD
+
+
+git checkout <commit> -- <file>
+
+
+git checkout HEAD -- <file>
+
